@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bucktooth
+- 👋 Hi, I’m Joey.
 - 👀 I’m interested in Computer Science, Data Science, and Web Development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects in the future.
