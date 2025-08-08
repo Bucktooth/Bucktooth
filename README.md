@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joey.
 - 👀 I’m interested in Computer Science, Data Science, Web Development, Back-End Engineering, Front-End Engineering, and Full-Stack Engineering.
-- 🌱 I’m currently learning CS and Front-End Engineering.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 
 
