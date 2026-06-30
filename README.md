@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bucktooth.
-- 👀 I’m interested in Computer Science, Data Science, Web Development, Back-End Engineering, Front-End Engineering, and Full-Stack Engineering.
+- 👀 I’m interested in Computer Science and Back-End Engineering.
 - 🌱 I’m currently building Asteroids with Python and pygame. (Back-end Developer Path in Python & Go via Boot.dev)
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 
